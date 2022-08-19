@@ -1,6 +1,6 @@
-# nvim
+# 个人neovim配置
 
-个人neovim配置
+感谢[ravenxrz](https://github.com/ravenxrz/dotfiles)
 
 # 安装neovim
 
